@@ -1,7 +1,17 @@
 import React from "react";
 
 const Elev = () => {
-    return(<span>Elev</span>)
+    return(
+    <>Materii
+    <ul>
+        <li>Mate</li>
+        <li>Engleza</li>
+        <li>Romana</li>
+        <li>Sport</li>
+
+    </ul>
+    </>
+    )
 }
 
 export default Elev

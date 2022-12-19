@@ -1,7 +1,7 @@
 import React from "react";
 
 const Anunturi = () => {
-    return(<span>Anunturi</span>)
+    return(<h2>Anunturi</h2>)
 }
 
 export default Anunturi

@@ -6,6 +6,8 @@ const Catalog = () => {
     const loggedUser = ''
     return(
         <>
+        <h2> Catalog </h2>
+        <br/>
         {loggedUser === 'elev' ? <Elev/> : <Profesor/>}
         </>
     )
